@@ -1,0 +1,194 @@
+﻿[
+  {
+    "id": 1,
+    "name": "手电",
+    "type": "Tool",
+    "description": "也许它能发光",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/手电筒"
+  },
+  {
+    "id": 2,
+    "name": "手套",
+    "type": "Equipment",
+    "description": "也许它能保护\n你的手",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/手套"
+  },
+  {
+    "id": 3,
+    "name": "除草剂",
+    "type": "Consumable",
+    "description": "正常人都知道\n它有什么用处",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/除草剂"
+  },
+  {
+    "id": 4,
+    "name": "剩饭",
+    "type": "Consumable",
+    "description": "虽说不能浪费\n粮食但吃这碗饭不太\n健康哦",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/剩饭"
+  },
+  {
+    "id": 5,
+    "name": "防毒面具",
+    "type": "Equipment",
+    "description": "看起来酷酷的",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/防毒面具"
+  },
+  {
+    "id": 6,
+    "name": "电池",
+    "type": "Consumable",
+    "description": "电器的能源",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/电池"
+  },
+  {
+    "id": 7,
+    "name": "暖气",
+    "type": "Tool",
+    "description": "在寒冷的冬天\n能发挥作用哦",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/暖气"
+  },
+  {
+    "id": 8,
+    "name": "过期罐头",
+    "type": "Consumable",
+    "description": "虽说不能浪费\n粮食但吃这罐头...\n不太健康哦",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/过期罐头"
+  },
+  {
+    "id": 9,
+    "name": "干粮",
+    "type": "Consumable",
+    "description": "它也许能维持\n一段时间的身体所需\n的能量",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/干粮"
+  },
+  {
+    "id": 10,
+    "name": "水",
+    "type": "Consumable",
+    "description": "无色无味它可\n不是什么毒药",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/水"
+  },
+  {
+    "id": 11,
+    "name": "巧克力",
+    "type": "Consumable",
+    "description": "隔壁小哥哥\nDaniel的最爱",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/巧克力"
+  },
+  {
+    "id": 12,
+    "name": "杂志",
+    "type": "Consumable",
+    "description": "也许能让你在\n乏味的生活中获得点\n乐趣哦",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/杂志"
+  },
+  {
+    "id": 13,
+    "name": "防弹头盔",
+    "type": "Equipment",
+    "description": "别看它长这样\n它可是98k的好伙伴\n3级头呢",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/防弹头盔"
+  },
+  {
+    "id": 14,
+    "name": "隔热板",
+    "type": "Tool",
+    "description": "一个普通的隔\n热道具",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/隔热板"
+  },
+  {
+    "id": 15,
+    "name": "干燥机",
+    "type": "Tool",
+    "description": "它可以烘干潮\n湿的地方",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/干燥机"
+  },
+  {
+    "id": 16,
+    "name": "压缩饼干",
+    "type": "Consumable",
+    "description": "别看这么小个\n儿它的分量还挺足的\n呢",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/压缩饼干"
+  },
+  {
+    "id": 17,
+    "name": "伞",
+    "type": "Tool",
+    "description": "下雨天的时候\n人们出门会带上它",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/伞"
+  },
+  {
+    "id": 18,
+    "name": "护目镜",
+    "type": "Equipment",
+    "description": "它能保护好你\n漆黑明亮的双眸",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/护目镜"
+  },
+  {
+    "id": 19,
+    "name": "扇子",
+    "type": "Tool",
+    "description": "文人墨客偏爱\n它",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/扇子"
+  },
+  {
+    "id": 20,
+    "name": "针线",
+    "type": "Tool",
+    "description": "可以缝补布制\n物品",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/针线"
+  },
+  {
+    "id": 21,
+    "name": "纪念项链",
+    "type": "Equipment",
+    "description": "一条有纪念意\n义的项链",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/纪念项链"
+  },
+  {
+    "id": 22,
+    "name": "玩具熊",
+    "type": "Tool",
+    "description": "Mia的小伙伴总\n能给Mia带来快乐",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/玩具熊"
+  },
+  {
+    "id": 23,
+    "name": "药盒",
+    "type": "Tool",
+    "description": "一般是用来存\n放药品的哦",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/药盒"
+  },
+  {
+    "id": 24,
+    "name": "罐头",
+    "type": "Consumable",
+    "description": "可以维持一餐\n饭所需的能量哦",
+    "capacity": 10,
+    "sprite": "Sprites/Items/game_asset/罐头"
+  }
+]

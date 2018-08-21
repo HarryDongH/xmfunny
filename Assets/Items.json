@@ -1,0 +1,10 @@
+﻿[
+    {
+        "id": 1,
+        "name": "手电",
+        "type": "Tool",
+        "description": "也许它能发光",
+        "capacity": 10,
+        "sprite": "Sprites/Items/bracers"
+    }
+]
